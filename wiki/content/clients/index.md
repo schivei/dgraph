@@ -497,6 +497,7 @@ These third-party clients are contributed by the community and are not officiall
 
 - https://github.com/AlexandreDaSilva/DgraphNet
 - https://github.com/MichaelJCompton/Dgraph-dotnet
+- https://github.com/schivei/dgraph4net
 
 ### Dart
 
